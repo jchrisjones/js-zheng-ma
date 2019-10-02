@@ -1,0 +1,27 @@
+{
+  "name": "javascript-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corda/javascript-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corda/javascript-interview/issues"
+  },
+  "homepage": "https://github.com/corda/javascript-interview#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.5.5",
+    "babel-core": "^6.26.3",
+    "eslint": "^6.3.0",
+    "eslint-plugin-jest": "^22.16.0",
+    "jest": "^24.9.0"
+  }
+}
